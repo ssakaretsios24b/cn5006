@@ -1,0 +1,12 @@
+{
+  "plugins": ["@prettier/plugin-php"],
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "printWidth": 100,
+  "phpVersion": "8.1",
+  "braceStyle": "1tbs"
+}
