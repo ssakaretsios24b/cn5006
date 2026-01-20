@@ -71,13 +71,6 @@ prototype/
 │   └── init.sql
 ├── uploads/
 └── index.php
-
-screenshots/
-├── homepage.png
-├── loggedin_role_student.png
-├── loggedin_role_teacher.png
-├── login.png
-└── registration.png
 ```
 
 ## Installation
